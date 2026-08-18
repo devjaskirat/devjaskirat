@@ -60,15 +60,6 @@ Interactive visualizer covering 15 algorithms with a reusable playback engine (p
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devjaskirat&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjaskirat&layout=compact&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 🎓 B.Tech in Computer Engineering, Thapar Institute of Engineering & Technology (2023–2027)
